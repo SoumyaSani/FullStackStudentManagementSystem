@@ -28,7 +28,7 @@ FullStackStudentManagementSystem/
 - Java
 - Spring Boot
 - Spring Data JPA
-- MySQL (or H2 database)
+- H2 database
 
 ---
 
